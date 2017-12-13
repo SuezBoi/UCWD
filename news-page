@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<head>
+<title>Latest news</title>
+</head>
+<body>
+
+
+<h1 align="center"> e-Sports news </h1>
+
+<div id="nav_bar"> 
+
+<ul align="center" style="list-style-type:none">
+  <li><a href="website.html">Home</a></li>
+  <li><a href="news.html">e-Sports News</a></li>
+  <li><a href="latest.html">Latest games</a></li>
+  <li><a href="ratings.html">Ratings</a></li>
+</ul>
+
+	</div>
+	
+	<img src="file://///bournemouth.ac.uk/data/Student/Home/SciTech/s5069035/Website/esports.jpg" width="2000" height="600" alt=""/>
+	
+	<h1> Latest fixtures </h1>
+	
+	<h3> Call Of Duty</h3>
+	
+	<table>
+  <tr>
+    <th>Team 1</th>
+    <th>Team 2</th>
+    <th>Result</th>
+  </tr>
+  <tr>
+    <td> Team Doggie</td>
+    <td>LeftOne</td>
+    <td>1-0</td>
+  </tr>
+  <tr>
+    <td>Insane</td>
+    <td>Gambit</td>
+    <td>0-1</td>
+  </tr>
+  <tr>
+  	<td> PRIDE </td>
+	  <td>AGO</td>
+	  <td> 1-1</td>
+  </tr>
+  
+</table>
+	
+</body>	
