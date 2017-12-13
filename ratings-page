@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<head>
+<title> Video game ratings </title>
+</head>
+<body>
+
+
+<h1 align="center"> Ratings </h1>
+
+
+<div id="nav_bar"> 
+
+<ul align="center" style=list-style-type:none>
+  <li><a href="website.html">Home</a></li>
+  <li><a href="news.html">e-Sports News</a></li>
+  <li><a href="latest.html">Latest games</a></li>
+  <li><a href="ratings.html">Ratings</a></li>
+</ul>
+</div>
+
+<h2>Destiny 2</h2>
+<img src="file://///bournemouth.ac.uk/data/Student/Home/SciTech/s5069035/Website/Destiny-2-Official-Reveal-Art.jpg" width="500" height="500" alt=""/>
+</body>
+<h2> 5/10 </h2>
+<p1> "The campaign rushes through a high-stakes story and feels half-baked as a result" -GameSpot</p1>
+<p> "My only concern is that, once again, it seems hell-bent on sucking every moment of free time you have to unlock its most interesting and entertaining features. - TrustedReviews</p>
+
+<h2> Batman The enemy Within</h2>
+<img src="file://///bournemouth.ac.uk/data/Student/Home/SciTech/s5069035/Website/batman-telltale-1012970-1280x0.jpg" width="500" height="500" alt=""/>
+<h2> 8/10 </h2>
+<p1> "Develops complicated relationships that set up future narrative payoffs" -GameSpot </p1>
+<p> "Strong interactions with Harley Quinn, Selina Kyle, and John make Fractured Mask work, right up until the extremely abrupt ending." - IGN</p>
+
+
