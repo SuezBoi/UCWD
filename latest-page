@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<head>
+<title> Latest </title>
+</head>
+<body>
+
+<h1 align="center"> Games of the future </h1>
+
+<div id="nav_bar"> 
+
+<ul align="center" style="list-style-type:none">
+  <li><a href="website.html">Home</a></li>
+  <li><a href="news.html">e-Sports News</a></li>
+  <li><a href="latest.html">Latest games</a></li>
+  <li><a href="ratings.html">Ratings</a></li>
+</ul>
+
+</div>
+	
+	
+	<div class="img-with-text">
+   <h2> Far Cry 5</h2>
+    <img src="file://///bournemouth.ac.uk/data/Student/Home/SciTech/s5069035/Website/far cry.jpg" width="500" height="500" alt=""/>
+     <p>February 27 | Ubisoft  Far Cry moves to mountainous Montana, which has been overtaken by a homicidal cult. A retooled “guns for hire” system means you can call on buddies at any time (including a sharpshooter, aerial support, and even a canine) for help during combat. </p>
+</div>
+	
+<div class="img-with-text">
+   <h2> Vampyr</h2>
+    <img src="file://///bournemouth.ac.uk/data/Student/Home/SciTech/s5069035/Website/vampyr-hed-ed.jpg" width="500" height="500" alt=""/>
+    <p>Spring | DONTNOD Entertainment  The developer behind Life Is Strange expands its horizons with this early 20th-century vampire fable set in London. As recent vampire Dr. Jonathan Reid, you must find a cure for the city’s disease-ridden population while balancing the politics of the undead bloodsuckers around you. When not fighting off vampire hunters or zombies, you’ll be deciding which citizens to feed on for progression points, with plenty of narrative consequences to follow. </p>
+ </div>
+	
+		<div class="img-with-text">
+   <h2> Metro Exodus</h2>
+    <img src="file://///bournemouth.ac.uk/data/Student/Home/SciTech/s5069035/Website/maxresdefault.jpg" width="500" height="500" alt=""/>
+    <p>2018 | 4A Games  The latest Metro game returns to the irradiated, yet beautiful world of post-apocalypse Moscow. The debut trailer showed off plenty of familiar resource scavenging, mutant shooting, and a tense escape from a quite irritated bear before leaping onto a runaway train. </p>
+    
+</div><div class="img-with-text">
+   <h2> Ori and the will of the wisps</h2>
+    <img src="file://///bournemouth.ac.uk/data/Student/Home/SciTech/s5069035/Website/Ori_and_the_Will_of_the_Wisps.jpg" width="500" height="500" alt=""/>
+  <p>TBA | Moon Studios  2015’s Ori and the Blind Forest wowed players with an emotionally charged narrative and challenging Metroidvania-like gameplay, so why not go for two? Developer Moon Studios debuted a trailer at E3 2017 showing off a painterly, yet blighted landscape before ending on the titular Ori comforting a young owl mourning over the bodies of its dead parents. No one ever said beauty had to be pleasant. </p>
+</div>
+	
+		<h5> Text Source: http://www.pcgamer.com/new-games-2018/</h5>	
+
+	
+
+</body>
