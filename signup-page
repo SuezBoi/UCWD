@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<head>
+<title> Latest </title>
+</head>
+<body>
+
+<h1 align="center">
+Sign up</h1>
+
+  <div class="container">
+    <label><b>Name</b></label>
+    <input type="text" placeholder="Enter name" name="Name" required>
+    
+      <div class="container">
+    <label><b>Email</b></label>
+    <input type="email" placeholder="Enter email" name="email" required>
+
+  <div class="container">
+    <label><b>Username</b></label>
+    <input type="text" placeholder="Enter Username" name="uname" required>
+
+     <div class="container">
+    <label><b>Password</b></label>
+    <input type="text" placeholder="Enter Password" name="psw" required>
+
+  
+<form method="post"  action="signup.html">
+    <button type="submit">Sign up</button>
+</form>
+
+<a href="Website.html">Return to home</a>
+
+
+
+
+
+</body>
