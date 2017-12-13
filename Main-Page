@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<head>
+<title> Games media </title>
+</head>
+<body>
+
+<h1 align="center"> Games media </h1>
+
+<form method="post" align="right" action="signup.html">
+    <button type="submit">Sign up</button>
+</form>
+
+<div id="nav_bar"> 
+
+<ul align="center" style=list-style-type:none>
+  <li><a href="website.html">Home</a></li>
+  <li><a href="news.html">e-Sports News</a></li>
+  <li><a href="latest.html">Latest games</a></li>
+  <li><a href="ratings.html">Ratings</a></li>
+</ul>
+</div>
+
+<h2 align="center"> Sample text </h2>
+<p1 align="center-left"> Games media was opened in 1999 when e-sports and gaming began to become really popular, the entire point of this club is to give those gamers the latest on all of their favourite games, giving information on potential new titles and more</p1>
+
+<img src="file://///bournemouth.ac.uk/data/Student/Home/SciTech/s5069035/Website/controllers.jpg" width="2000
+" height="512" alt=""/>
+</body>
